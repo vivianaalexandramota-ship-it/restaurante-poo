@@ -1,6 +1,6 @@
 # Sistema básico de gestión de restaurante
 
-**Estudiante:** Geovanny José Velasco Paredes  
+**Estudiante:** Viviana Mota Alzamora
 **Asignatura:** Programación Orientada a Objetos  
 **Semana:** 4
 
